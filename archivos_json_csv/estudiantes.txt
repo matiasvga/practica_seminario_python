@@ -1,0 +1,4 @@
+DNI:12345,name:Guido Van Rossum,pts_teoria:100,pts_practica:50,city:Haarlem,group:info:TM,
+DNI:11111,name:Ada Lovelace,pts_teoria:100,pts_practica:50,city:Londres,group:info:TM,
+DNI:12345,name:Alan Turing,pts_teoria:100,pts_practica:50,city:Londres,group:info_TT,
+DNI:11111,name:Joan Clarke,pts_teoria:100,pts_practica:50,city:Londres,group:info_TT,
